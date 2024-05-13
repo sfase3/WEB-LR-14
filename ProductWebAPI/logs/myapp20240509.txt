@@ -1,0 +1,105 @@
+2024-05-09 10:39:32.236 +03:00 [INF] Hello, Serilog!
+2024-05-09 10:39:32.290 +03:00 [WRN] Something unexpected happened
+2024-05-09 10:39:32.291 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 10:39:32.293 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T10:39:32.2928427+03:00"
+2024-05-09 10:39:32.313 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 10:40:46.203 +03:00 [INF] Hello, Serilog!
+2024-05-09 10:40:46.256 +03:00 [WRN] Something unexpected happened
+2024-05-09 10:40:46.258 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 10:40:46.261 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T10:40:46.2601976+03:00"
+2024-05-09 10:40:46.284 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 10:59:35.931 +03:00 [INF] Hello, Serilog!
+2024-05-09 10:59:35.982 +03:00 [WRN] Something unexpected happened
+2024-05-09 10:59:35.984 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 10:59:35.986 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T10:59:35.9859589+03:00"
+2024-05-09 10:59:36.005 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 11:32:28.731 +03:00 [INF] Hello, Serilog!
+2024-05-09 11:32:28.776 +03:00 [WRN] Something unexpected happened
+2024-05-09 11:32:28.778 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 11:32:28.780 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T11:32:28.7794434+03:00"
+2024-05-09 11:32:28.803 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 11:44:18.877 +03:00 [INF] Hello, Serilog!
+2024-05-09 11:44:18.927 +03:00 [WRN] Something unexpected happened
+2024-05-09 11:44:18.930 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 11:44:18.933 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T11:44:18.9322102+03:00"
+2024-05-09 11:44:18.955 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 11:45:39.818 +03:00 [INF] Hello, Serilog!
+2024-05-09 11:45:39.871 +03:00 [WRN] Something unexpected happened
+2024-05-09 11:45:39.873 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 11:45:39.876 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T11:45:39.8753859+03:00"
+2024-05-09 11:45:39.901 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 11:46:30.559 +03:00 [INF] Hello, Serilog!
+2024-05-09 11:46:30.614 +03:00 [WRN] Something unexpected happened
+2024-05-09 11:46:30.616 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 11:46:30.618 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T11:46:30.6177507+03:00"
+2024-05-09 11:46:30.639 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 11:52:20.021 +03:00 [INF] Hello, Serilog!
+2024-05-09 11:52:20.065 +03:00 [WRN] Something unexpected happened
+2024-05-09 11:52:20.066 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 11:52:20.068 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T11:52:20.0676637+03:00"
+2024-05-09 11:52:20.086 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 11:55:18.227 +03:00 [INF] Hello, Serilog!
+2024-05-09 11:55:18.276 +03:00 [WRN] Something unexpected happened
+2024-05-09 11:55:18.277 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 11:55:18.280 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T11:55:18.2793784+03:00"
+2024-05-09 11:55:18.302 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 11:59:20.255 +03:00 [INF] Hello, Serilog!
+2024-05-09 11:59:20.299 +03:00 [WRN] Something unexpected happened
+2024-05-09 11:59:20.301 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 11:59:20.303 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T11:59:20.3027409+03:00"
+2024-05-09 11:59:20.323 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:02:40.919 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:02:40.984 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:02:40.987 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:02:40.990 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:02:40.9888630+03:00"
+2024-05-09 12:02:41.017 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:06:58.156 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:06:58.242 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:06:58.245 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:06:58.249 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:06:58.2476662+03:00"
+2024-05-09 12:06:58.278 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:11:33.336 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:11:33.385 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:11:33.387 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:11:33.389 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:11:33.3884907+03:00"
+2024-05-09 12:11:33.407 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:12:13.896 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:12:13.941 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:12:13.942 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:12:13.945 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:12:13.9442251+03:00"
+2024-05-09 12:12:13.963 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:13:42.544 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:13:42.588 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:13:42.589 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:13:42.592 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:13:42.5912379+03:00"
+2024-05-09 12:13:42.612 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:14:13.303 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:14:13.344 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:14:13.346 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:14:13.349 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:14:13.3482385+03:00"
+2024-05-09 12:14:13.369 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:14:38.902 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:14:38.947 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:14:38.950 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:14:38.952 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:14:38.9513609+03:00"
+2024-05-09 12:14:38.970 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:14:55.110 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:14:55.157 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:14:55.158 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:14:55.160 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:14:55.1597254+03:00"
+2024-05-09 12:14:55.183 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:16:30.062 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:16:30.110 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:16:30.112 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:16:30.114 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:16:30.1131899+03:00"
+2024-05-09 12:16:30.134 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:17:02.058 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:17:02.108 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:17:02.109 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:17:02.112 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:17:02.1113103+03:00"
+2024-05-09 12:17:02.134 +03:00 [DBG] Dividing 10 by 2
+2024-05-09 12:17:13.881 +03:00 [INF] Hello, Serilog!
+2024-05-09 12:17:13.931 +03:00 [WRN] Something unexpected happened
+2024-05-09 12:17:13.932 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-09 12:17:13.935 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-09T12:17:13.9342215+03:00"
+2024-05-09 12:17:13.957 +03:00 [DBG] Dividing 10 by 2

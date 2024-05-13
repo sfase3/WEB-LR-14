@@ -1,0 +1,5 @@
+2024-05-08 23:30:57.694 +03:00 [INF] Hello, Serilog!
+2024-05-08 23:30:57.931 +03:00 [WRN] Something unexpected happened
+2024-05-08 23:30:57.942 +03:00 [FTL] The application encountered a fatal error and must exit
+2024-05-08 23:30:57.955 +03:00 [INF] User {"Id":0,"FirstName":"John","LastName":"Jonson","Email":null,"DateOfBirth":"0001-01-01T00:00:00.0000000","Password":null,"LastLoginDate":"0001-01-01T00:00:00.0000000","FailedLoginAttempts":0,"$type":"User"} logged in at "2024-05-08T23:30:57.9528666+03:00"
+2024-05-08 23:30:58.072 +03:00 [DBG] Dividing 10 by 2
